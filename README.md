@@ -1,2 +1,3 @@
 # java_practice
-java practice
+Week 8 projects
+
