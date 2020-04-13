@@ -1,3 +1,3 @@
 # java_practice
-projects
+following YouTube tutorials 
 
